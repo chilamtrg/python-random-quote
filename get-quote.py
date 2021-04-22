@@ -1,4 +1,4 @@
-def main(python get-quote.py):
+def main():
   
   print("Keep it logically awesome.")
 
